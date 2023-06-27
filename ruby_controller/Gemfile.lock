@@ -1,0 +1,40 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.9.2)
+    base64 (0.1.1)
+    colorize (1.1.0)
+    date (3.3.3)
+    dotenv (2.8.1)
+    json (2.6.3)
+    open-uri (0.3.0)
+      stringio
+      time
+      uri
+    openssl (3.1.0)
+    parallel (1.23.0)
+    pathname (0.2.1)
+    stringio (3.0.4)
+    time (0.2.2)
+      date
+    uri (0.12.1)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  awesome_print
+  base64
+  colorize
+  date
+  dotenv
+  json
+  open-uri
+  openssl
+  parallel
+  pathname
+  time
+  uri
+
+BUNDLED WITH
+   2.4.12
