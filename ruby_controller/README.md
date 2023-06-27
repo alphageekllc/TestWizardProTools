@@ -35,7 +35,7 @@ ruby twp_test_tools.rb 4 'https://raw.githubusercontent.com/alphageekllc/testwiz
 # .env
 Create a local .env file in root directory 
 
-## Add the following variables to .env file:
+## Add the following variables to your .env file:
 ```bash
 SALESFORCE_USERNAME=<user name>
 SALESFORCE_CLIENT_ID=<client id>
