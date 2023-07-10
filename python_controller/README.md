@@ -44,6 +44,11 @@ SECRET_KEY_LOCATION=<path to server.key file>
 SALESFORCE_LOGIN_URL=https://test.salesforce.com/services/oauth2/token
 ```
 # Install
+Install pip on windows
+```bash
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+```
 Clone repo locally
 ```bash
 gh repo clone alphageekllc/TestWizardProTools
