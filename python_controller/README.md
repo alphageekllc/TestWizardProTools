@@ -17,19 +17,19 @@ Please select an option:
 ## Usage examples
 ### Executing tests by test name:
 ```bash
-ruby twp_test_tools.py 1 'Example - Assert Field Value All'
+python twp_test_tools.py 1 'Example - Assert Field Value All'
 ```
 ### Executing tests by test tags:
 ```bash
-ruby twp_test_tools.py 2 'EXAMPLE'
+python twp_test_tools.py 2 'EXAMPLE'
 ```
 ### Uploading local test file to Org:
 ```bash
-ruby twp_test_tools.py 3 'C:\Github\testwizardpro_example_tests\csv_tests\Example - Assert Field Value All.csv'
+python twp_test_tools.py 3 'C:\Github\testwizardpro_example_tests\csv_tests\Example - Assert Field Value All.csv'
 ```
 ### Uploading Github test file to Org:
 ```bash
-ruby twp_test_tools.py 4 'https://raw.githubusercontent.com/alphageekllc/testwizardpro_example_tests/main/csv_tests/Example%20-%20Assert%20Field%20Value%20All.csv'
+python twp_test_tools.py 4 'https://raw.githubusercontent.com/alphageekllc/testwizardpro_example_tests/main/csv_tests/Example%20-%20Assert%20Field%20Value%20All.csv'
 ```
 
 # .env
