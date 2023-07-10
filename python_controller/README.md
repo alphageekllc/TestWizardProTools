@@ -37,7 +37,7 @@ Create a local .env file in root directory
 
 ## Add the following variables to your .env file:
 ```bash
-[environment_name]
+[test001]
 SALESFORCE_USERNAME=<user name>
 SALESFORCE_CLIENT_ID=<client id>
 SECRET_KEY_LOCATION=<path to server.key file>
